@@ -22,7 +22,7 @@
 57,1,2015-08-02 21:31:05,0.0166666666666667,STILL,home,Clear,32.9,13.0,15.0,0.0,18.0,652.0
 65,1,2015-08-04 16:31:35,0.501388888888889,STILL,work,Clear,25.1,5.0,0.0,0.0,5.0,303.0
 66,1,2015-08-04 18:31:05,0.300555555555556,STILL,work,Partly Cloudy,24.8,4.0,0.0,0.0,3.0,220.0
-67,1,2015-08-04 21:31:52,0.0605555555555556,STILL,home,com.google.appengine.labs.repackaged.org.json.JSONObject.getJSONObject(JSONObject.java:516),0.0,0.0,0.0,0.0,18.0,542.0
+67,1,2015-08-04 21:31:52,0.0605555555555556,STILL,home,,0.0,0.0,0.0,0.0,18.0,542.0
 68,1,2015-08-04 23:31:40,0.501111111111111,IN_VEHICLE,"furniture_store,hardware_store,general_contractor,home_goods_store,store,storage,point_of_interest,establishment",Partly Cloudy,25.2,0.0,0.0,0.0,3.0,96.0
 69,1,2015-08-05 10:31:20,0.0305555555555556,STILL,home,Clear,10.6,0.0,2.0,0.0,22.0,884.0
 70,1,2015-08-05 16:31:54,5.78916666666667,STILL,home,Clear,24.0,6.0,0.0,0.0,10.0,634.0
@@ -51,7 +51,7 @@
 210,1,2015-09-02 16:32:11,0.530555555555556,STILL,work,Partly Cloudy,27.7,2.0,15.0,0.0,0.0,0.0
 216,1,2015-09-03 18:31:13,0.0325,STILL,work,Clear,28.3,0.0,15.0,0.0,16.0,633.0
 217,1,2015-09-03 21:31:49,0.0427777777777778,STILL,home,Partly Cloudy,26.2,3.6,60.0,0.0,19.0,827.0
-220,1,2015-09-04 16:31:31,0.307777777777778,STILL,work,com.google.appengine.labs.repackaged.org.json.JSONObject.getJSONObject(JSONObject.java:516),0.0,0.0,0.0,0.0,16.0,1080.0
+220,1,2015-09-04 16:31:31,0.307777777777778,STILL,work,,0.0,0.0,0.0,0.0,16.0,1080.0
 223,1,2015-09-04 23:31:12,0.420750000013245,STILL,"university,point_of_interest,establishment",Partly Cloudy,24.6,0.0,15.0,0.0,19.0,848.0
 224,1,2015-09-05 10:35:59,7.15194444444444,STILL,home,Partly Cloudy,17.8,0.0,0.0,0.0,0.0,0.0
 225,1,2015-09-05 16:31:07,0.110277777777778,STILL,home,Rain,21.6,4.2,75.0,0.0,8.0,295.0
@@ -1233,7 +1233,7 @@
 3080,14,2015-10-25 17:02:07,0.0308333333333333,IN_VEHICLE,"general_contractor,furniture_store,home_goods_store,store,point_of_interest,establishment",Clear,12.7,0.0,0.0,0.0,5.0,217.0
 3081,14,2015-10-25 19:01:01,0.0319444444444444,STILL,"park,point_of_interest,establishment",Clear,12.3,9.0,0.0,0.0,10.0,393.0
 3082,14,2015-10-25 22:01:38,0.97,STILL,"store,car_repair,point_of_interest,establishment",Partly Cloudy,13.7,0.0,0.0,0.0,6.0,265.0
-3085,14,2015-10-26 17:01:23,0.0191666666666667,STILL,"home_goods_store,store,point_of_interest,establishment",com.google.appengine.labs.repackaged.org.json.JSONObject.getJSONObject(JSONObject.java:516),0.0,0.0,0.0,0.0,19.0,800.0
+3085,14,2015-10-26 17:01:23,0.0191666666666667,STILL,"home_goods_store,store,point_of_interest,establishment",,0.0,0.0,0.0,0.0,19.0,800.0
 3086,14,2015-10-26 19:01:42,1.91416666666667,STILL,"store,health,point_of_interest,establishment",Clear,15.6,3.1,0.0,0.0,0.0,0.0
 3088,14,2015-10-26 23:31:32,0.0783333333333333,IN_VEHICLE,"grocery_or_supermarket,bakery,store,food,point_of_interest,establishment",Partly Cloudy,9.7,0.9,0.0,0.0,14.0,458.0
 3089,14,2015-10-27 13:32:00,0.830833333333333,STILL,"beauty_salon,store,restaurant,food,point_of_interest,establishment",Clear,8.0,0.0,0.0,0.0,13.0,378.0
@@ -1352,7 +1352,7 @@
 3449,16,2015-09-03 20:32:19,0.649722222222222,STILL,work,Mostly Cloudy,25.1,1.0,35.0,0.0,5.0,374.0
 3450,16,2015-09-04 00:01:25,1.75027777777778,STILL,"bar,restaurant,food,point_of_interest,establishment",Thunderstorm,19.1,0.0,32.0,0.0,5.0,152.0
 3451,16,2015-09-04 13:32:53,0.0727777777777778,STILL,work,Overcast,19.6,0.0,0.0,0.0,0.0,0.0
-3452,16,2015-09-04 16:31:33,0.0436111111111111,STILL,work,com.google.appengine.labs.repackaged.org.json.JSONObject.getJSONObject(JSONObject.java:516),0.0,0.0,0.0,0.0,29.0,2573.0
+3452,16,2015-09-04 16:31:33,0.0436111111111111,STILL,work,,0.0,0.0,0.0,0.0,29.0,2573.0
 3453,16,2015-09-04 18:31:48,0.36,STILL,work,Mostly Cloudy,26.3,0.0,15.0,0.0,8.0,402.0
 3460,16,2015-09-06 00:04:00,1.60555555555556,STILL,home,Clear,24.6,0.0,15.0,0.0,10.0,427.0
 3461,16,2015-09-06 13:32:30,10.9197222222222,STILL,home,Clear,25.2,0.0,2.0,0.0,0.0,0.0
@@ -2348,7 +2348,7 @@
 5800,26,2015-12-13 17:46:51,,IN_VEHICLE,"park,point_of_interest,establishment",Clear,15.5,14.1,0.0,0.0,5.0,244.0
 5803,26,2015-12-14 00:59:28,,STILL,"store,point_of_interest,establishment",Partly Cloudy,14.4,2.7,53.0,0.0,18.0,670.0
 5813,27,2015-12-03 17:31:08,,STILL,"university,point_of_interest,establishment",Mostly Cloudy,4.4,8.9,0.0,0.0,8.0,448.0
-5815,27,2015-12-03 23:02:52,,STILL,"restaurant,food,bar,point_of_interest,establishment",com.google.appengine.labs.repackaged.org.json.JSONObject.<init>(JSONObject.java:179),0.0,0.0,0.0,0.0,4.0,164.0
+5815,27,2015-12-03 23:02:52,,STILL,"restaurant,food,bar,point_of_interest,establishment",,0.0,0.0,0.0,0.0,4.0,164.0
 5821,27,2015-12-05 00:31:54,,STILL,"park,point_of_interest,establishment",Clear,0.6,0.0,0.0,0.0,1.0,48.0
 5826,27,2015-12-06 00:31:32,,STILL,"park,point_of_interest,establishment",Overcast,-0.4,0.7,0.0,0.0,26.0,1250.0
 5827,27,2015-12-06 13:21:31,,STILL,"park,point_of_interest,establishment",Light Freezing Fog,-1.8,0.0,0.0,0.0,0.0,0.0
